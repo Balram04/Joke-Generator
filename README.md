@@ -11,7 +11,7 @@ A fun and interactive web app that generates random jokes with a single click. P
 
 ## 🚀 Live Demo
 
-👉 [Live Link](#) *(Add your hosted link here)*
+👉 [Live Link](#) *( https://balram04.github.io/Joke-Generator/)*
 
 ## 🛠️ Tech Stack
 
